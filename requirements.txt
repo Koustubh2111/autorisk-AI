@@ -1,0 +1,23 @@
+# PDF and text processing
+pypdf
+fpdf
+
+# Embeddings & vector search
+sentence-transformers
+langchain
+
+# Database connectivity
+psycopg2-binary
+sqlalchemy
+python-dotenv
+
+# API & web framework (future use)
+fastapi
+uvicorn[standard]
+
+# MLOps and Monitoring (optional for now)
+prometheus-client
+grafana-api
+
+# Misc
+numpy
