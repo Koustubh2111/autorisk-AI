@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Notebooks outputs (optional)
+*.log
+*.tmp
+
+# PDFs or test data
+embeddings/data/*.pdf
