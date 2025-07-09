@@ -1,6 +1,6 @@
 # AutoRiskAI
 
-AutoRiskAI is a simulation project designed to replicate the responsibilities of an AI Engineer and Data Scientist working within a regulated banking environment. The system automates and supports risk, audit, and compliance workflows leveraging Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), classical Machine Learning (ML) models, secure APIs, and MLOps best practices. Emphasis is placed on privacy, explainability, reproducibility, and on-premise development.
+AutoRiskAI is a simulation project that automates and supports risk, audit, and compliance workflows leveraging Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), classical Machine Learning (ML) models, secure APIs, and MLOps best practices. Emphasis is placed on privacy, explainability, reproducibility, and on-premise development.
 
 
 
