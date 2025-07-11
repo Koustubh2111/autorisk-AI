@@ -42,4 +42,4 @@ def store_chunks_to_pgvector(chunks, table="policy_chunks"):
 if __name__ == "__main__":
     chunks = load_and_chunk_pdf("embeddings/data/sample_policy.pdf")
     store_chunks_to_pgvector(chunks)
-    print(f"✅ Ingested {len(chunks)} chunks into pgvector.")
+    print(f"Ingested {len(chunks)} chunks into pgvector.")
