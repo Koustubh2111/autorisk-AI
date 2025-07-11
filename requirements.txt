@@ -11,13 +11,23 @@ psycopg2-binary
 sqlalchemy
 python-dotenv
 
+#ML
+xgboost
+mlflow
+
 # API & web framework (future use)
 fastapi
 uvicorn[standard]
 
-# MLOps and Monitoring (optional for now)
+# MLOps and Monitoring
 prometheus-client
 grafana-api
 
 # Misc
 numpy
+pandas
+faker
+jupyter
+
+#Visualization
+seaborn
