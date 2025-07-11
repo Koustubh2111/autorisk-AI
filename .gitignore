@@ -20,3 +20,6 @@ __pycache__/
 
 # PDFs or test data
 embeddings/data/*.pdf
+
+#mlflow runs
+notebooks/mlruns/*
