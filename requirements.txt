@@ -19,6 +19,7 @@ shap
 # API & web framework (future use)
 fastapi
 uvicorn[standard]
+pytest
 
 # MLOps and Monitoring
 prometheus-client
