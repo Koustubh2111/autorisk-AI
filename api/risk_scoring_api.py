@@ -9,7 +9,6 @@ import shap
 app = FastAPI(title="Audit Log Risk Scoring API")
 
 
-
 # Define the expected input format using Pydantic
 class AuditLog(BaseModel):
     timestamp: str
