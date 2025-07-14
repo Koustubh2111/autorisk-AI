@@ -17,9 +17,11 @@ __pycache__/
 # Notebooks outputs (optional)
 *.log
 *.tmp
+*.png
 
 # PDFs or test data
 embeddings/data/*.pdf
 
 #mlflow runs
-notebooks/mlruns/*
+mlruns/
+
