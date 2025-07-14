@@ -14,6 +14,7 @@ python-dotenv
 #ML
 xgboost
 mlflow
+shap
 
 # API & web framework (future use)
 fastapi
